@@ -5,4 +5,4 @@
 3. Lab[03]:Exploratory Data Analysis (EDA)
 Identify correlations between variables.
 Use Pandas profiling or custom scripts for EDA.
-Analyze trends, patterns, and outliers in the dataset.
+Analyze trends, patterns, and outliers in the dataset.[https://github.com/goliharini19/DATA-MINING/blob/main/Lab03_DM.ipynb]
