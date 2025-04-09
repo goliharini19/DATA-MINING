@@ -7,3 +7,5 @@ Identify correlations between variables.
 Use Pandas profiling or custom scripts for EDA.
 Analyze trends, patterns, and outliers in the dataset.[https://github.com/goliharini19/DATA-MINING/blob/main/Lab03_DM.ipynb]
 4. Lab[04]:Data Transformation 1.Perform data encoding (one-hot encoding, label encoding). 2.Create new derived columns using existing data (e.g., age from a date of birth). 3.Group and aggregate data using groupby and pivot_table.[https://github.com/goliharini19/DATA-MINING/blob/main/Lab04_DM.ipynb]
+5. Lab [05]: Exploratory Data Analysis (EDA) Identify correlations between variables. Use Pandas profiling or custom scripts for EDA. Analyze trends, patterns, and outliers in the dataset.
+   
