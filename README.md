@@ -10,7 +10,15 @@ Analyze trends, patterns, and outliers in the dataset.[https://github.com/goliha
 5. Lab [05]: Exploratory Data Analysis (EDA) Identify correlations between variables. Use Pandas profiling or custom scripts for EDA. Analyze trends, patterns, and outliers in the dataset.
    [https://github.com/goliharini19/DATA-MINING/blob/main/Lab05_DM.ipynb]
 6. Lab_06:Data Transformation Perform data encoding (one-hot encoding, label encoding). Create new derived columns using existing data (e.g., age from a date of birth). Group and aggregate data using groupby and pivot_table.[https://github.com/goliharini19/DATA-MINING/blob/main/Lab06_DM.ipynb]
-7. Lab [07]: [https://github.com/goliharini19/DATA-MINING/blob/main/Lab_7DM.ipynb]
+7. Lab [07]: Task 1: Simple Linear Regression
+              Linear Regression with an External Dataset[https://github.com/goliharini19/DATA-MINING/blob/main/Lab_7DM.ipynb]
+8. Lab [08]: Tasks
+              • Read the dataset using pandas.read_csv()
+              • Separate features (TV, Radio, Newspaper) and target (Sales).
+              • Train and evaluate the model using LinearRegression from sklearn.[https://github.com/goliharini19/DATA-MINING/blob/main/Lab08_DM.ipynb]
 9. Lab [09]: Task 1: Load and Visualize the Data
              Task 2: Apply Polynomial Regression
              Task 3: Evaluate and Visualize. [https://github.com/goliharini19/DATA-MINING/blob/main/Lab_09.ipynb]
+10. Lab [10]: Task 1: Modify Dataset
+              Task 2: Apply Logistic Regression to Another Dataset
+              Task 3: Modify Model Parameters. [https://github.com/goliharini19/DATA-MINING/blob/main/Lab10_DM.ipynb]
